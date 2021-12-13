@@ -1,7 +1,7 @@
 This file contains information for third party software (“third party programs”) contained in the Intel software and their required notices and/or license terms. This third party software, even if included with the distribution of the Intel software, may be governed by separate license terms, including without limitation, third party license terms, other Intel software license terms, and open source software license terms. These separate license terms govern your use of the third party programs as set forth in the “third-party-programs.txt” or other similarly-named text file.
 
 ------------------------------------------------------------
-1. Resnet_v1.5_50_INT8
+1. resnet-50-tf_INT8
    Copyright 2015 The TensorFlow Authors.  All rights reserved.
 
    ssd_mobilenet_v1_coco_INT8
