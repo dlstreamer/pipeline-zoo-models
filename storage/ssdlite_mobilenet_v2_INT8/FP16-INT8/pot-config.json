@@ -1,0 +1,21 @@
+{
+    "compression": {
+        "algorithms": [
+            {
+                "name": "DefaultQuantization",
+                "params": {
+                    "preset": "performance",
+                    "stat_subset_size": 300
+                }
+            }
+        ]
+    },
+    "engine": {
+        "config": "/Users/ncgalopp/.pyenv/versions/3.7.9/envs/ov/lib/python3.7/site-packages/open_model_zoo/model_tools/models/public/ssdlite_mobilenet_v2/accuracy-check.yml"
+    },
+    "model": {
+        "model": "/Users/ncgalopp/models/walmart/public/ssdlite_mobilenet_v2/FP16/ssdlite_mobilenet_v2.xml",
+        "weights": "/Users/ncgalopp/models/walmart/public/ssdlite_mobilenet_v2/FP16/ssdlite_mobilenet_v2.bin",
+        "model_name": "ssdlite_mobilenet_v2"
+    }
+}
