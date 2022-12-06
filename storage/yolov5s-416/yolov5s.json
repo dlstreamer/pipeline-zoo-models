@@ -5,10 +5,9 @@
         {
             "converter": "yolo_v5",
             "iou_threshold": 0.4,
+            "do_cls_softmax": true,
             "output_sigmoid_activation": true,
-            "bbox_number_on_cell": 3,
-            "cells_number": 13,
-	    "classes": 80,
+            "classes": 80,
             "anchors": [
                 10.0,
                 13.0,
