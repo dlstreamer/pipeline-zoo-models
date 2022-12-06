@@ -224,6 +224,7 @@ This file contains information for third party software (“third party programs
 
 ------------------------------------------------------------
 2. yolo-v4-tf_INT8
+   yolo-v4-tf-416_INT8
 
 MIT License
 
@@ -248,8 +249,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ------------------------------------------------------------
-3. YOLOv5_INT8
+3. yolov5s-416_INT8
 
+   yolov5s-416
+
+   yolov5m-460_INT8
+
+   yolov5m-460
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
